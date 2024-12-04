@@ -1,60 +1,46 @@
-<h2 align="center">Olá! 👋 Sejam bem vindos ao meu Github!</h2>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6eab96&height=120&section=header" />
 
-###
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=natan-marinho&radius=16&theme=react&area=true&order=5&hide_border=true&hide_title=true" height="300" alt="activity-graph graph"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=natan-marinho&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=pt-br&hide_border=true&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=natan-marinho&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=true&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="30" alt="wordpress logo"  />
-</div>
-
-###
-
-<div align="center">
-  <a href="https://www.instagram.com/natan.omarinho/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&duration=4000&pause=500&color=6EAB96&center=true&vCenter=true&width=1000&lines=Welcome+to+my+profile!;I+am+a+React+and+Mobile+Developer." alt="Typing SVG" />
   </a>
-  <a href="mailto:natan.marinho.profissional@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/natan-marinho-728238335/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
+</p>
 
-###
+<br></br>
 
-<br clear="both">
+<h1> 👩🏼‍💻 About Me </h1>
+  <h3> I am a software developer with two years of programming experience, specializing in the React ecosystem. My current focus is on mobile development using React Native and Expo. </h3>
 
-<img src="https://raw.githubusercontent.com/natan-marinho/natan-marinho/output/snake.svg" alt="Snake animation" />
+<br></br>
 
-###
+<h1> 🔗 GitHub Stats </h1>
+  <p align="center">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=juliabonifaciio&theme=aura" alt="Stats Card" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=juliabonifaciio&theme=aura" alt="Languages Card" />
+  </p>
+  
+  <p align="center">
+    <img width="80%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=juliabonifaciio&theme=aura" />
+  </p>
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/natan-marinho/count.svg?"  />
-</div>
+<br></br>
 
-###
+<h1> <img align="center" src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="35" /> Technologies </h1>
+  <table align="center">
+    <tr>
+      <td valign="top" width="33%">
+        <h3 align="center">Frontend</h3>
+        <p align="center">
+          <img src="https://skillicons.dev/icons?i=react,typescript,javascript&theme=dark&perline=3" />
+        </p>
+      </td>
+      <td valign="top" width="33%">
+        <h3 align="center">Backend</h3>
+        <p align="center">
+          <img src="https://skillicons.dev/icons?i=nodejs,php,java&theme=dark&perline=3" />
+        </p>
+      </td>
+    </tr>
+  </table>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6eab96&height=120&section=footer" />
