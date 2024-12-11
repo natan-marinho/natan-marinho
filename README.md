@@ -25,6 +25,14 @@
 
 <br></br>
 
+<h1> 🚀 Projects </h1>
+  <ul>
+    <li><a href="https://github.com/natan-marinho/todolist">ToDoList App</a>: A task management application built with Next.js, Node.js, and MySQL.</li>
+    <li><a href="https://github.com/natan-marinho/currency-converter">Currency Converter</a>: A real-time currency converter using React and an external API.</li>
+  </ul>
+
+<br></br>
+
 <h1> <img align="center" src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="35" /> Technologies </h1>
   <table align="center">
     <tr>
@@ -42,5 +50,19 @@
       </td>
     </tr>
   </table>
+
+<br></br>
+
+<h1> 🌐 Connect with Me </h1>
+<p align="center">
+  <a href="https://linkedin.com/in/natan-marinho" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:natan@example.com" target="_blank"><img src="https://img.shields.io/badge/-Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+<br></br>
+
+<p align="center">
+  ![Profile Views](https://komarev.com/ghpvc/?username=natan-marinho&color=blue&style=flat-square)
+</p>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0f4c81&height=120&section=footer" />
