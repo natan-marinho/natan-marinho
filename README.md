@@ -55,14 +55,10 @@
 
 <h1> 🌐 Connect with Me </h1>
 <p align="center">
-  <a href="https://linkedin.com/in/natan-marinho" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:natan@example.com" target="_blank"><img src="https://img.shields.io/badge/-Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/natan-marinho-728238335/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:natan.marinho.profissional@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 <br></br>
-
-<p align="center">
-  ![Profile Views](https://komarev.com/ghpvc/?username=natan-marinho&color=blue&style=flat-square)
-</p>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0f4c81&height=120&section=footer" />
