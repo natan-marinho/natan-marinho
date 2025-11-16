@@ -45,7 +45,7 @@ Python • SQL • Data Analytics • Automação • Modelos de IA
 
 ## 🌐 Onde me encontrar
 <div align="center">
-  <a href="https://linkedin.com/in/natan-marinho" target="_blank">
+  <a href="https://www.linkedin.com/in/natan-marinho-728238335/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-00A0DC?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:natan.marinho.profissional@gmail.com" target="_blank">
