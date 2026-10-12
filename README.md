@@ -39,7 +39,6 @@ I work across the software development lifecycle, from designing solutions and i
 
 My background combines hands-on software engineering, freelance development and academic studies in Artificial Intelligence.
 
-- 💼 **Currently:** Full Stack Developer at NewCAD
 - 🖥️ **Experience:** Production web and desktop applications
 - 📱 **Development:** Full stack, mobile and interactive 3D interfaces
 - ⚙️ **Engineering:** Backend architecture, integrations and software quality
