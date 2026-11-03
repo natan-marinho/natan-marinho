@@ -36,18 +36,6 @@ Custom websites, landing pages and web applications for clients, covering fronte
 
 ---
 
-## Featured Projects
-
-| Project | Description | Stack |
-|---|---|---|
-| [customizableTable](https://github.com/natan-marinho/customizableTable) | Reusable table component for web interfaces, focused on flexibility and user experience | TypeScript · React |
-| [Chatbot-Totvs](https://github.com/natan-marinho/Chatbot-Totvs) | Chatbot project exploring conversational interfaces and application integrations | TypeScript · React |
-| [Cars](https://github.com/natan-marinho/Cars) | Web application for managing and viewing cars | TypeScript · React |
-
-> More projects at **[natanmdev.vercel.app](https://natanmdev.vercel.app)**
-
----
-
 ## Tech Stack
 
 ### Frontend
